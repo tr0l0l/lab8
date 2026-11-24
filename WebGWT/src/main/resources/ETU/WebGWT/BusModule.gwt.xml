@@ -1,0 +1,10 @@
+<module rename-to='BusModule'>
+  <inherits name='com.google.gwt.user.User' />
+  <inherits name='com.google.gwt.user.theme.standard.Standard' />
+  <inherits name='com.google.gwt.user.cellview.CellView' />
+
+  <entry-point class='ETU.WebGWT.client.BusModule' />
+
+  <source path='client' />
+  <source path='shared' />
+</module>
